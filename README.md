@@ -4,9 +4,6 @@
 # Github, now we can make commits and branches to the file
 # (That's also why there's a lot of "first commits" please ignore them!)
 
-
-# This comment is made from the "chicken" branch 
-
 # Lemon Pepper Chicken Recipe
 
 # Ingredients: 3 boneless, skinless chicken thighs (cut in half)
