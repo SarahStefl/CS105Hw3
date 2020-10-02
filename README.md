@@ -24,3 +24,15 @@
 
 # 3. Bake for 20 minutes or until the internal temperature reaches 165
 #    degrees. 
+
+
+# Vanilla Sprinkle Cookies
+
+# Ingredients: 1/2 cup all purpose flour
+#              1/2 teaspoon baking powder
+#              pinch salt
+#              1/2 cup sugar
+#              1 tablespoon unsalted butter
+#              1 egg
+#              1 teaspoon vanilla extract
+#              1/2 cup sprinkles
