@@ -34,6 +34,14 @@ Ingredients: 1/2 cup all purpose flour
       1 teaspoon vanilla extract
       1/2 cup sprinkles
 
+1. Preheat an oven or toaster oven to 375 degrees F, line a baking sheet with aluminum foil
+
+2. In a bowl mix together the flour, baking powder, and salt.
+
+3. In a separate bowl, mix together the sugar and butter until well combined. Add the egg and vanilla and stir.
+   Add the dry ingredients to the bowl and mix until well combined. Fold in the sprinkles.
+
+4. Roll the dough into 6 equal sized balls, place them on the baking sheet. Bake for 9 minutes
 
 ## Bulgogi Hoagies from J Kenji Lopez-Alt's youtube
 
