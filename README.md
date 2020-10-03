@@ -4,7 +4,7 @@
 # Github, now we can make commits and branches to the file
 # (That's also why there's a lot of "first commits" please ignore them!)
 
-Lemon Pepper Chicken Recipe
+## Lemon Pepper Chicken Recipe
 
 Ingredients: 3 boneless, skinless chicken thighs (cut in half)
       3 tablespoons olive oil
@@ -23,7 +23,7 @@ and pepper.
 degrees. 
 
 
-Vanilla Sprinkle Cookies
+## Vanilla Sprinkle Cookies
 
 Ingredients: 1/2 cup all purpose flour
       1/2 teaspoon baking powder
@@ -35,7 +35,7 @@ Ingredients: 1/2 cup all purpose flour
       1/2 cup sprinkles
 
 
-Bulgogi Hoagies from J Kenji Lopez-Alt's youtube
+## Bulgogi Hoagies from J Kenji Lopez-Alt's youtube
 
 1 tablespoon vegetable oil
 5 ounces thinly sliced steak
