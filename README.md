@@ -51,3 +51,16 @@ A soft hoagie roll (French or Italian torpedo rolls from the supermarket, or wha
 
 Heat vegetable oil on a griddle or a large cast iron skillet over medium-high heat until shimmering. Add meat and chop and stir it up with a stiff metal spatula as it cooks. When about half the meat is no longer pink, add the kimchi, pickled peppers, chili flakes, cayenne, black pepper, sesame seeds and kosher salt to taste. Continue chopping, stirring, and cooking until the meat is no longer pink. Make it into a bun-sized pile, then add the cheese. Fold the cheese in a little, then place the opened face of the bread over the meat/cheese mixture. Pick everything up with the spatula, and flip it over so that the filling is in  the bread. Pick up any stray bits from the griddle and pile them into the roll. Close the sandwich and eat it with napkins.
 
+## Healthy Low-Calorie Mac n' Cheese - From Josh Weissman
+1 lb Shell Pasta (Brown rice pasta)
+Salt
+Water
+
+Low-Calorie Cheese Sauce -
+1 Head Cauliflower 
+1 cup water
+1 cup (90 g) Cheddar, grated
+1 Tbsp (14 g) Nutritional Yeast
+2 tsp (6 g) Turmeric powder
+Salt
+Pepper
